@@ -1,14 +1,15 @@
 body {
     text-align:center;
     color:#ADCAEB;
+    background-color:#66666E
   }
   
   div {
-    background-color:#33023B;
+    background-color:#9999A1;
     display:inline-block;
     width:550px;
     padding:20px;
-    border:5px solid #EE92C2;
+    border:5px solid #E6E6E9;
     color:#EE7B30;
     margin:5px;
   }
@@ -29,7 +30,7 @@ body {
   }
   
   h1 {
-    background-color:#33023B;
+    background-color:#9999A1;
     display:block;
     min-height:50px;
     text-decoration:underline;
