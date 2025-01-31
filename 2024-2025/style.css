@@ -24,6 +24,11 @@ body {
     text-decoration:underline;
     color:#F4F4F6;
   }
+
+  ul {
+    text-align:left;
+    color:#000000;
+  }
   
   #hide {
     display:none;
